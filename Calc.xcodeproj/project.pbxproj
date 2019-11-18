@@ -16,6 +16,7 @@
 		F032C74C23826E8800745564 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F032C74A23826E8800745564 /* LaunchScreen.storyboard */; };
 		F032C75723826E8800745564 /* CalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F032C75623826E8800745564 /* CalcTests.swift */; };
 		F032C76223826E8800745564 /* CalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F032C76123826E8800745564 /* CalcUITests.swift */; };
+		F032C7722382701200745564 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F032C7712382701200745564 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		F032C75D23826E8800745564 /* CalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F032C76123826E8800745564 /* CalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalcUITests.swift; sourceTree = "<group>"; };
 		F032C76323826E8800745564 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F032C7712382701200745564 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				F032C73E23826E8300745564 /* SceneDelegate.swift */,
 				F032C74023826E8300745564 /* ViewController.swift */,
 				F032C74223826E8300745564 /* Main.storyboard */,
+				F032C7712382701200745564 /* CollectionViewCell.swift */,
 				F032C74823826E8800745564 /* Assets.xcassets */,
 				F032C74A23826E8800745564 /* LaunchScreen.storyboard */,
 				F032C74D23826E8800745564 /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				F032C74723826E8300745564 /* Calc.xcdatamodeld in Sources */,
 				F032C74123826E8300745564 /* ViewController.swift in Sources */,
+				F032C7722382701200745564 /* CollectionViewCell.swift in Sources */,
 				F032C73D23826E8300745564 /* AppDelegate.swift in Sources */,
 				F032C73F23826E8300745564 /* SceneDelegate.swift in Sources */,
 			);
